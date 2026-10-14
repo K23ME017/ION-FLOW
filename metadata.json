@@ -1,0 +1,6 @@
+{
+  "name": "Career and Skill-Gap Navigator",
+  "description": "Analyze live job market demand from Google Jobs, identify skill gaps, spotlight fast-track courses, and navigate career progression with zero-hallucination verified listings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
